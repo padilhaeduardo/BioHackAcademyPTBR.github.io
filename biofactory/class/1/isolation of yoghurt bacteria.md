@@ -6,7 +6,7 @@ permalink: /biofactory/class/1-incubator/yoghurt-bacteria-isolation/
 
 ## Objetivo
 
-Quando se converte a lactose em ácido láctico atrevés de bactérias, o leite é convertido em iogurte. Neste teste, vamos isolar os agentes mais comuns: *Lactobacillus* e *Streptococcus*.
+Quando se converte a lactose em ácido láctico através de bactérias, o leite é convertido em iogurte. Neste teste, vamos isolar os agentes mais comuns: *Lactobacillus* e *Streptococcus*.
 
 ## Materiais
 
