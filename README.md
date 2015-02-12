@@ -1,2 +1,2 @@
 # BioHackAcademyPTBR.github.io
-Syllabus do BioHack Academy da Waag Society, em bom português!
+Ementa do BioHack Academy da Waag Society, em bom português!
