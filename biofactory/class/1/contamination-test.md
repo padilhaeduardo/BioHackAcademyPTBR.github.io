@@ -4,23 +4,21 @@ title: Contamination Test
 permalink: /biofactory/class/1-incubator/contamination-test/
 ---
 
-## Goal
+## Objetivo
 
-Microorganisms are always around and ready to contaminate your carefully grown cultures. In this practical we will determine what common airborne contaminents look like.
 Os microorganismos estão sempre por perto e prontos para contaminar as suas culturas cuidadosamente cultivadas. Através deste teste, você vai aprender como surgem os contaminantes transportados pelo ar mais comuns.
 
-## Materials
 ## Materiais
 
-* 1 Peptone agar (PA) plate, favourable to bacteria
-* 1 Malt agar (MA) plate, favourable to yeast and fungi
+* 1 placa de Peptone Agar (PA), favorável às bactérias
+* 1 placa de Agar de malte (MA), favorável à leveduras e fungos
 
-## Method
+## Metodologia
 
-1. Find an interesting spot in the building.
-2. Remove the lid from the plates and leave the plates for 30 minutes.
-3. Collect the plates.
-4. Incubate at 30&deg; C for 24h.
-5. Inspect your plates and look at them under the microscope.
+1. Ache um local interessante no seu entorno. Pode ser uma sala, um banheiro…
+2. Remova a tampa das placas e deixe as placas em repouso durante 30 minutos.
+3. Recolha as placas.
+4. Incube-as a 30°C durante 24h.
+5. Inspecione suas placas e olhe-as com um microscópio.
 
-Back to [Biofactory - Class 1: Incubator](/biofactory/class/1-incubator/)
+De volta ao [Biofactory - Class 1: Incubator](/biofactory/class/1-incubator/)
