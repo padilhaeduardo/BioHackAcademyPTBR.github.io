@@ -1,8 +1,9 @@
 # Site settings
-title: Biohack Academy Syllabus
-email: pieter@waag.org
+title: Ementa Biohack Academy
+email: info@garagemfablab.com
 description: > # this means to ignore newlines until "baseurl:"
-  Waag Society's first Biohack Academy is an intense 10 week bioreactor hacking course held in the Amsterdam Fablab and Open Wetlab.
+  O primeiro BioHack Academy da Waag Society's é um curso intenso de 10 semanas sobre como construir e hackaear um biorreator com ferramentas de fabricação digital, conhecimento aberto e espírito DIY!
+  Será ministrado no Open WetLab do FabLab Amsterdam e em outros FabLabs pelo mundo, como no Garagem FabLab em SP e Olabi no RJ.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://code.waag.org" # the base hostname & protocol for your site
 twitter_username: waag
