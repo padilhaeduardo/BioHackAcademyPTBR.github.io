@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Isolation of Beer yeasts
+title: Isolando as Leveduras da Cerveja
 permalink: /biofactory/class/1-incubator/beer-yeasts-isolation/
 ---
 
@@ -46,10 +46,10 @@ As especialmente famosas cervejas belgas continuam a fermentar na garrafa. Duran
 8. Transfira 0,1 mL de solução do tubo -7 ao tubo -9. Vortex/mix.
 9. Etiquete 5 placas MA da mesma maneira: -1, -3, -5, -7 e -9
 10.Começando com a maior diluição (-9), transfira 0,25 mL de solução do tubo de ensaio para a placa -9 e espalhe-a utilizando a espátula de vidro (que foi esterilizada mergulhando-la no álcool e incendiando-a). Continue com o próximo tubo (-7) e assim por diante.
-11.Aqueça a alça de inoculação ate que fique vermelha, deixe esfriar, mergulhe-a na cerveja e estrie na placa MRS.
-12.Mais uma vez, aqueça a alça de inoculação até que fique vermelha, deixe esfriar, mergulhe-a na cerveja e estrie na placa de MA.
-13.Incube as placas a 30 °C.
-14.Meça o pH da cerveja usando o papel indicador de pH.
+11. Aqueça a alça de inoculação ate que fique vermelha, deixe esfriar, mergulhe-a na cerveja e estrie na placa MRS.
+12. Mais uma vez, aqueça a alça de inoculação até que fique vermelha, deixe esfriar, mergulhe-a na cerveja e estrie na placa de MA.
+13. Incube as placas a 30 °C.
+14. Meça o pH da cerveja usando o papel indicador de pH.
 
 ## Metodologia Passo 2
 Após uma semana:
