@@ -4,67 +4,67 @@ title: Isolation of Yoghurt bacteria
 permalink: /biofactory/class/1-incubator/yoghurt-bacteria-isolation/
 ---
 
-## Goal
+## Objetivo
 
-When lactose is converted into lactic acid by bacteria, milk is converted into yoghurt. In this practical we will isolate the most common agents: *Lactobacillus* and *Streptococcus*.
+Quando se converte a lactose em ácido láctico atrevés de bactérias, o leite é convertido em iogurte. Neste teste, vamos isolar os agentes mais comuns: *Lactobacillus* e *Streptococcus*.
 
-## Materials
+## Materiais
 
-**Step 1**
+**Passo 1**
 
-* 50 mL [Ringer's Solution](/biofactory/annex/cultivation-media/ringers-solution/)
-* 5 test tubes
-* 6 [MRS Agar](/biofactory/annex/cultivation-media/mrs-agar/) plates
-* 1 [Malt Agar](/biofactory/annex/cultivation-media/malt-agar/) plate
-* pH indicator paper
-* commercial yoghurt, such as Actimel
-* Glass spatula
-* Inoculation loop
-* 100 mL beaker glass with some 95% ethanol
-* Gas burner
+* 50 mL de Solução de Ringer [Ringer's Solution](/biofactory/annex/cultivation-media/ringers-solution/)
+* 5 tubos de ensaio
+* 6 placas de [MRS Agar](/biofactory/annex/cultivation-media/mrs-agar/)
+* 1 placa de [Agar de Malte](/biofactory/annex/cultivation-media/malt-agar/)
+* Papel indicador de pH
+* Iogurte encontrado no mercado, como Activia
+* Espátula de vidro
+* Alça de inoculação
+* Becker de vidro de 100 ml com um pouco de alcool etílico a 95%
+* Fogareiro
 
-**Step 2**
+**Passo 2**
 
-* 4 [MRS Agar](/biofactory/annex/cultivation-media/mrs-agar/) plates
-* 2 [Malt Agar](/biofactory/annex/cultivation-media/malt-agar/) plates
+* 4 placas [MRS Agar](/biofactory/annex/cultivation-media/mrs-agar/)
+* 2 placas de [Agar de malte] (/biofactory/annex/cultivation-media/malt-agar/)
 
-**Step 3**
+**Passo 3**
 
-* Microscope
-* Microscope slides and cover slides
-* Gram and Loeffler staining 
+* Microscópio
+* Lâminas de microscópio e lâminas de cobertura
+* Coloração de Gram e Loeffler
 
-## Method Step 1
+## Metodologia Passo 1
 
-1. Label the 5 test tubes: -1, -3, -5, -7 and -9
-2. Add 9 mL Ringer's solution to tube -1
-3. Add 9.9 mL Ringer's solution to tube -3, -5, -7 and -9
-4. Add 1 g of yoghurt to tube -1 and vortex/mix
-5. With the use of sterile pipette transfer 0.1 mL from the -1 tube to the -3 tube. Vortex / mix.
-6. Transfer 0.1 mL from the -3 tube to the -5 tube. Vortex / mix.
-7. Transfer 0.1 mL from the -5 tube to the -7 tube. Vortex / mix.
-8. Transfer 0.1 mL from the -7 tube to the -9 tube. Vortex / mix.
-9. Label 5 MRS plates with the same labels: -1, -3, -5, -7 and -9
-10. Starting with the largest dilution (-9) transfer 0.25 mL from the test tube to the -9 plate and spread it using the glass spatula that has been sterilized by dipping it in alcohol and torching it. Continue with the next tube (-7) and so on.
-11. Heat up the inoculation loop to red hot, let it cool down, dip it in the yoghurt and streak it on the MRS plate.
-12. Once more, heat up the inoculation loop to red hot, let it cool down, dip it in the yoghurt and streak it on the MA plate.
-13. Incubate plates at 30&deg; C.
-14. Measure the pH of the yoghurt using the pH indicator paper.
+1. Etiquete os cinco tubos de ensaio: -1, -3, -5, -7 e -9
+2. Adicione 9 mL de solução de Ringer no tubo -1
+3. Adicione 9,9 mL de solução de Ringer nos tubos -3, -5, -7 e -9
+4. Adicione 1 g de iogurte no tubo -1 e vortex/mix
+5. Com uma pipeta estéril, transfira 0,1 mL de solução do tubo -1 ao tubo -3. Vortex/mix.
+6. Transfira 0,1 mL de solução do tubo -3 ao tubo -5. Vortex/mix.
+7. Transfira 0,1 mL de solução do tubo -5 ao tubo -7. Vortex/mix.
+8. Transfira 0,1 mL de solução do tubo -7 ao tubo -9. Vortex/mix.
+9. Etiquete as cinco placas MRS com as mesmas etiquetas: -1, -3, -5, -7 and -9
+10. Começando com a maior diluição (-9), transfira 0,25 mL de solução do tubo de ensaio para a placa -9 e espalhe-a utilizando a espátula de vidro (que foi esterilizada mergulhando-la no álcool e incendiando-a). Continue com o tubo seguinte (-7) e assim por diante.
+11. Aqueça a alça de inoculação ate que fique vermelha, deixe esfriar, mergulhe-a no iogurte e estrie na placa MRS.
+12. Mais uma vez, aqueça a alça de inoculação até que seja vermelha, deixe esfriar, mergulhá-la no iogurte e estrie na placa de MA.
+13. Incube as placas a 30 °C.
+14. Meça o pH do iogurte usando o papel indicador de pH.
 
-## Method Step 2
-After about one week:
+## Metodologia Passo 2
+Após cerca de uma semana:
 
-1. Take a look at your plates.
-2. Select a plate with clear individual colonies.
-3. Count the colonies.
-4. Streak one bacterial colony on each fresh MRS plate.
-5. Streak a yeast contamination on a clean MA plate.
-6. Incubate the plates at 30&deg; C.
+1. Dê uma olhada as suas placas.
+2. Selecione uma placa com claras colônias individuais.
+3. Conte as colônias.
+4. Estrie uma colônia de bactérias em cada placa fresca de MRS.
+5. Estrie uma contaminação de fermento numa placa limpa de MA.
+6. Incube as placas a 30 °C.
 
-## Method Step 3
-After about one more week:
+## Metodologia Passo 3
+Após mais uma semana:
 
-1. Perform a Gram staining on the bacteria and a Loeffler staining on the yeast.
-2. Take a look at the cultures under the microscope. 
+1. Realize uma coloração de Gram sobre as bactérias e uma coloração Loeffler sobre a levedura.
+2. Dê uma olhada nas culturas com um microscópio. 
 
-Back to [Biofactory - Class 1: Incubator](/biofactory/class/1-incubator/)
+De volta ao [Biofactory - Class 1: Incubator](/biofactory/class/1-incubator/)
