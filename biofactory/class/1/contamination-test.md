@@ -7,8 +7,10 @@ permalink: /biofactory/class/1-incubator/contamination-test/
 ## Goal
 
 Microorganisms are always around and ready to contaminate your carefully grown cultures. In this practical we will determine what common airborne contaminents look like.
+Os microorganismos estão sempre por perto e prontos para contaminar as suas culturas cuidadosamente cultivadas. Através deste teste, você vai aprender como surgem os contaminantes transportados pelo ar mais comuns.
 
 ## Materials
+## Materiais
 
 * 1 Peptone agar (PA) plate, favourable to bacteria
 * 1 Malt agar (MA) plate, favourable to yeast and fungi
