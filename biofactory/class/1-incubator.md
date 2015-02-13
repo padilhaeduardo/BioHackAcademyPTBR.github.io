@@ -1,71 +1,71 @@
 ---
 layout: page
-title: Incubator (Class 1)
+title: Incubadora (Class 1)
 permalink: /biofactory/class/1-incubator/
 ---
 
-## Synopsys
+## Sinopse
 
-Build your own incubator and start growing microbes under controlled conditions. During the class you will also get to know the fundamentals of microbiology. We’ll use our purple pigment bacteria as a standard, but you can also choose your own favourite biological agent. A crash course Arduino programming and soldering is included.
+Construa sua própria encubadora e comece a cultivar seus próprios microorganismos sob condições controladas. Durante as aulas você vai conhecer também os fundamentos da microbiologia. Vamos usar um pigmento roxo padrão para vizualisar as bactérias, mas você também pode optar por seu agente biológico favorito. Um curso intensivo de programação Arduino e soldagem está incluso.
 
-## Schedule
+## Agenda
 
-* Introduction
-* Microbiology fundamentals & Biological safety instructions
-* Arduino programming & soldering
-* Incubator design
-* Documentating your designs
-* Microorganism cultivation & enrichment practical intro
-  * [Contamination test](/biofactory/class/1-incubator/contamination-test/)
-  * [Isolation of Yoghurt bacteria](/biofactory/class/1-incubator/yoghurt-bacteria-isolation/)
-  * [Isolation of Beer yeasts](/biofactory/class/1-incubator/beer-yeasts-isolation/)
-* Tour around your lab
+* Introdução
+* Fundamentos da microbiologia & instruções de segurança biológica 
+* Programação Arduino & soldagem
+* Projeto da incubadora
+* Documentação dos projetos
+* Introdução prática ao cultivo & enriquecimento de microorganismos
+  * [Teste de contaminação](/biofactory/class/1-incubator/contamination-test/)
+  * [Isolamento de bactérias do iogurte](/biofactory/class/1-incubator/yoghurt-bacteria-isolation/)
+  * [Isolamento de leveduras da cerveja](/biofactory/class/1-incubator/beer-yeasts-isolation/)
+* Tour do laboratório
 
-## Incubator Design
+## Projeto da incubadora
 
-This week we will build our first Open Hardware lab device: the incubator. Download the design files here:
+Essa semana nós vamos construir nosso primeiro dispositivo de laboratório Open Hardware. Baixe os arquivos do projeto aqui: 
 
-* [Functional and technical requirements](/biofactory/class/1-incubator/requirements/)
-* [SketchUp assembly](/biofactory/class/1/Incubator-Sketchup.skp)
+* [Requisitos funcionais e técnicos](/biofactory/class/1-incubator/requirements/)
+* [Montagem do SketchUp](/biofactory/class/1/Incubator-Sketchup.skp)
 * [SVG laser cut files](/biofactory/class/1/Incubator-SVGs.zip)
 * [Fritzing wiring](/biofactory/class/1/Incubator-Fritzing.fzz)
-* [Arduino code](/biofactory/class/1/Incubator-Arduino.txt)
+* [Código Arduino](/biofactory/class/1/Incubator-Arduino.txt)
 
-![Incubator](/biofactory/class/1/Incubator.png)
+![Incubadora](/biofactory/class/1/Incubator.png)
 
-## Bill of Materials
+## Lista de Materiais
 
-In order to take part in this class you will need the following materials:
+Para fazer parte dessa aula, você precisará dos seguintes materiais:
 
-* [Incubator materials](/biofactory/class/1-incubator/incubator-materials/)
-* [Microbiology practical materials](/biofactory/class/1-incubator/microbiology-materials/)
+* [Materiais da incubadora](/biofactory/class/1-incubator/incubator-materials/)
+* [Materiais para a prática da microbiologia](/biofactory/class/1-incubator/microbiology-materials/)
 
-## Assignment
+## Tarefa
 
-Set up your own documentation site on Github.
+Organize sua  própria pasta de documentos aqui no Github.
 
-## Additional reading and hacking
+## Leituras e hacking adicionais
 
-* Microbiology
-  * [Microbiology](http://education-portal.com/academy/course/microbiology-course.html)
-  * [Introduction to Microbiology Culture Techniques](https://www.youtube.com/watch?v=Et1v8EQP10U) YouTube video
+* Microbiologia
+  * [Microbiologia](http://education-portal.com/academy/course/microbiology-course.html)
+  * [Introdução às Técnicas de Cultivo de Microbiologia](https://www.youtube.com/watch?v=Et1v8EQP10U) YouTube video
 * Arduino
-  * [Getting started with Arduino](http://www.makeuseof.com/tag/getting-started-with-arduino-a-beginners-guide/)
-  * [Ladyada Arduino Tutorials](http://www.ladyada.net/learn/arduino/)
-  * [Soldering](https://www.youtube.com/watch?v=oqV2xU1fee8) YouTube video
-* Incubators
+  * [Começando com Arduino](http://www.makeuseof.com/tag/getting-started-with-arduino-a-beginners-guide/)
+  * [Tutoriais Ladyada Arduino ](http://www.ladyada.net/learn/arduino/)
+  * [Soldagem](https://www.youtube.com/watch?v=oqV2xU1fee8) YouTube video
+* Incubadoras
   * [Climaduino](http://www.instructables.com/id/Introducing-Climaduino-The-Arduino-Based-Thermosta/)
-  * [Biodesign DIY Incubator](http://biodesign.cc/2013/12/25/diy-incubator/)
+  * [Bioprojeto DIY Incubadora](http://biodesign.cc/2013/12/25/diy-incubator/)
 * Github
-  * [How the heck do I use Github](http://lifehacker.com/5983680/how-the-heck-do-i-use-github)
+  * [Como raios eu uso o Github?](http://lifehacker.com/5983680/how-the-heck-do-i-use-github)
   * [Git cheatsheet](http://rogerdudler.github.io/git-guide/)
-* Additional Practicals
-  * [Isolation of Bioluminescent bacteria](/biofactory/class/1-incubator/bioluminescent-bacteria-isolation/)
-  * [Isolation of Nitrogen-fixating bacteria](/biofactory/class/1-incubator/isolation-of-nitrogen-fixating-bacteria/)
-  * [Isolation of Sulphur-oxidizing bacteria](/biofactory/class/1-incubator/isolation-of-sulphur-oxidizing-bacteria/)
+* Práticas Adicionais
+  * [Isolamento de bactérias bioluminescentes](/biofactory/class/1-incubator/bioluminescent-bacteria-isolation/)
+  * [Isolamento de bactérias fixadoras de Nitrogênio](/biofactory/class/1-incubator/isolation-of-nitrogen-fixating-bacteria/)
+  * [Isolamento de bactérias oxidantes de Enxofre](/biofactory/class/1-incubator/isolation-of-sulphur-oxidizing-bacteria/)
 
-## Feeling lazy?
+## Está com preguiça?
 
-Go ahead and buy an incubator:
+Vá em frente e compre uma incubadora:
 
 * [Lucky Reptile](http://www.amazon.co.uk/Lucky-Reptile-HN-2UK-Nursery-Incubator/dp/B002NFR0HQ)
