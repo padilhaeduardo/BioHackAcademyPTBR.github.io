@@ -4,20 +4,20 @@ title: Graduation (Class 10)
 permalink: /biofactory/class/10-graduation/
 ---
 
-## Synopsys
+## Sinopse
 
-The exact program remains a secret.
+O programa exato permanece um mistério.
 
-## Schedule
+## Agenda
 
 * Demos
-* Graduation ceremony
-* Party
+* Cerimônia de graduação 
+* Festa
 
-## Assignment
+## Tarefa
 
-Relax, we made it!
+Relaxe, conseguimos!
 
-## Additional reading and hacking
+## Leituras e hacking adicionais
 
-* [Biofactory continued](/biofactory/continued/)
+* [Continuação Biofactory](/biofactory/continued/)
