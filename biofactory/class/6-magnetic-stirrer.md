@@ -1,51 +1,51 @@
 ---
 layout: page
-title: Magnetic Stirrer (Class 6)
+title: Agitador Magnético (Aula 6)
 permalink: /biofactory/class/6-magnetic-stirrer/
 ---
 
 > NOTE: these instructions are still under construction. The designs and BoM might be subject to change.
 
-## Synopsys
+## Sinopse
 
-In order to scale up our BioFactory, we need to stir things up. Production is often limited by mass transport, so the stirrer will fix that. We’ll explore the basics of bioreactor design too.
+Para ampliar nossa Biofábrica, nós precisamos agitar um pouco as coisas. A produção é geralmente limitada pelo transporte de massa, então o agitador irá corrigir isso. Vamos explorar o básico do projeto do biorreator também.
 
-## Schedule
+## Agenda
 
-* Physical Transport Phenonoma
-* Bioreactor Design
-* Magnetic Stirrer Design
+* Fenômenos de Transporte Físico
+* Projeto do Biorreator
+* Projeto do Agitador Magnético
 
-## Stirrer Design
+## Projeto do Agitador
 
-This week we will build the stirrer. Download the design files here:
+Esta semana vamos construir o agitador. Baixe os aqrquivos do projeto aqui:
 
-* [Functional and technical requirements](/biofactory/class/6-stirrer/requirements/)
-* [SketchUp assembly](/biofactory/class/6/Magnetic-Stirrer-Sketchup.skp)
-* [SVG laser cut files](/biofactory/class/6/Magnetic-Stirrer-SVGs.zip)
-* [Fritzing wiring](/biofactory/class/6/Magnetic-Stirrer-Fritzing.fz)
+* [Requisitos Técnicos e Funcionais](/biofactory/class/6-stirrer/requirements/)
+* [Montagem do SketchUp](/biofactory/class/6/Magnetic-Stirrer-Sketchup.skp)
+* [Arquivos SVG de corte a laser](/biofactory/class/6/Magnetic-Stirrer-SVGs.zip)
+* [Diagrama Fritzing](/biofactory/class/6/Magnetic-Stirrer-Fritzing.fz)
 
-![Magnetic Strirrer](/biofactory/class/6/Magnetic-Stirrer.png)
+![Agitador Magnetico](/biofactory/class/6/Magnetic-Stirrer.png)
 
-## Bill of Materials
+## Lista de Materiais
 
-In order to take part in this class you will need the following materials:
+Para tomar parte nesta aula você irá precisar dos seguintes materiais:
 
-* [Magnetic Stirrer materials](/biofactory/class/6-magnetic-stirrer/stirrer-materials/)
+* [Materiais Agitador Magnetico](/biofactory/class/6-magnetic-stirrer/stirrer-materials/)
 
-## Assignment
+## Tarefa
 
-Design your bioreactor dimensions and fluxes.
+Projete as dimensões e fluxos do seu biorreator.
 
-## Additional reading and hacking
+## Leituras e hacking adicionais
 
-* Physical Transport Phenonoma
-* Bioreactor Design
-* Magnetic Stirrer
+* Fenômenos de Transporte Físico
+* Projeto do biorreator 
+* Agitador Magnético
   * [TeklaLabs](http://www.teklalabs.org/magnetic-stirrer/)
 
-## Feeling lazy?
+## Está com preguiça?
 
-Go ahead and buy a stirrer:
+Vá em frente e compre um agitador:
 
 * [VWR](https://us.vwr.com/store/catalog/category.jsp?id=597830)
