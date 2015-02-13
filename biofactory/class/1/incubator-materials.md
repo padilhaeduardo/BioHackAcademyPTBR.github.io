@@ -1,21 +1,20 @@
 ---
 layout: page
-title: Incubator Materials
+title: Materiais Incubadora
 permalink: /biofactory/class/1-incubator/incubator-materials/
 ---
 
-> PLEASE NOTE: as this is the first Bill of Materials of the Academy take note of the following:
+> CONSIDERAÇÕES IMPORTANTES: como essa é a primeira BOM (Bill of Materials ou Lista de Materiais) do Curso, preste atenção ao seguinte:
 
-1. The components on this list are the bare minimum you need to build an incubator and compatible with the incubator [3D design](/biofactory/class/1/Incubator-Sketchup.skp), [Fritzing wiring](/biofactory/class/1/Incubator-Fritzing.fzz) and [Arduino code](/biofactory/class/1/Incubator-Arduino.txt). Please feel free to deviate from this list and change the design accordingly. Once the classes started we will keep track of your hacks on your own documentation site.
-2. The suppliers all ship to addresses in The Netherlands, and some also ship abroad. Alternative sources are listed on the [Suppliers](/suppliers/) page. Whenever you find a suitable alternative, please post it in the comments at the bottom of the page.
-3. Check the stock level and shipping times of each component before ordering. If it takes more than two weeks, look for an alternative.
-4. Some suppliers, such as Farnell, only ship to businesses by default. Contact their service department to order as an individual. 
+1. Os componentes dessa lista são o mínimo que você precisará para construir uma incubadora e que são compatíveis com o presente [Projeto 3D](/biofactory/class/1/Incubator-Sketchup.skp), [Diagrama Fritzing](/biofactory/class/1/Incubator-Fritzing.fzz) e o [código em Arduino](/biofactory/class/1/Incubator-Arduino.txt). Por favor sinta-se livre para fugir dessa lista e mudar seus desenhos e planos. Uma vez que as aulas começem, nós teremos o controle de seus "hacks" nas páginas de documentação.
+2. Os fornecedores dessa lista enviam para todo o Brasil. Se você achar alguma alternativa melhor ou mais barata, por favor poste-a na área de comentários no final da página [Fornecedores](suppliers/).
+3. Sempre cheque o tempo estimado de envio antes de comprar. Se não der tempo de chegar para a aula, procure alternativas.
 
-## Bill of Materials
+## Lista de Materiais
 
-Needless to say, you will need an Arduino UNO or equivalent microcontroller. Most likely you have already bought one, as part of the [general preparations](/biofactory/preparations/).
+Aqui você vai precisar de um microcontrolador Arduino UNO ou equivalente. Se você se preparou direitinho lendo a página sobre  [Preparações](/biofactory/preparations/) você já está com o seu em mãos.
 
-### Must have
+### Devemos ter
 
 These are the parts you will need to assemble the incubator:
 
