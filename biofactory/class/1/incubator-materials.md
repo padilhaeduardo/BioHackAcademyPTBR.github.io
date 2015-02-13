@@ -16,20 +16,20 @@ Aqui você vai precisar de um microcontrolador Arduino UNO ou equivalente. Se vo
 
 ### Devemos ter
 
-These are the parts you will need to assemble the incubator:
+Estas são as peças que você precisa para montar a incubadora:
 
-|#|Amount|Description|Supplier NL|Cost|
+|#|Quantidade|Descrição|Fornecedor BR|Custo|
 |-:|----:|:---------|:-------|---:|
-|1|1|3mm MDF 95 x 45 cm|Local wood store, like [Houthandel Schmidt](https://www.google.com/maps/dir/Waag+Society,+Nieuwmarkt,+Amsterdam,+Netherlands/Houthandel+Schmidt,+Oudezijds+Achterburgwal+53,+1012+DB+Amsterdam,+Netherlands/@52.3732195,4.8971869,17z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x47c609b93deae857:0xa3c3b57e66c44946!2m2!1d4.900298!2d52.372807!1m5!1m1!1s0x47c609b901ad7703:0x6d511a1e0f5be9c2!2m2!1d4.89915!2d52.373417)|5.00|
-|2|1|Expanded polystyrene (EPS)|[Praxis](https://www.praxis.nl/bouwmaterialen/isolatie/isolatie/isolatieplaat-eps-60-100-x-50-x-5cm-5-stuks/5322572)|7.99|
-|4|1|3mm Acrylic sheet 25 x 40 cm|[Plexiglas.nl](http://www.plexiglas.nl/shop/plexiglas-helder-3-mm)|3.50|
-|5|1|12V 80 mm Axial Fan|[EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=13244), [Farnell](http://nl.farnell.com/bisonic/sp802512l-03/fan-80x25mm-12vdc/dp/1832326)|8.99|
-|6|1|Power switch|[EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=11596), [iPrototype](https://iprototype.nl/products/components/buttons-switches/rocker-switch-large)|0.95|
-|7|1|Water proof temperature sensor (*1)|[HobbyElectronica](http://www.hobbyelectronica.nl/product/ds18b20-waterdicht/), [iPrototype](https://iprototype.nl/products/components/sensors/waterproof-tmp-sensor-10k)|2.95|
-|8|1|4 section 7 segment display|[EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=8390), [iPrototype](https://iprototype.nl/products/components/led-lcd/led-bar-4xsegment-red)|1.95|
-|9|1|MOSFET|[Farnell](http://nl.farnell.com/stmicroelectronics/stp36nf06l/mosfet-n-logic-to-220/dp/9935614?CMP=i-bf9f-00001000), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=1279)|0.98|
-|10|4|10K resistor|[Farnell](http://nl.farnell.com/te-connectivity/cfr16j10k/resistor-carbon-10k-0-25w-5/dp/2329474), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=13492)|0.06|
-|11|1|Diode|[iPrototype](https://iprototype.nl/products/components/overige/diode), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=10717)|0.19|
+|1|1|Chapa de MDF 3mm (cortada 600x400mm)|[Leroy Merlin](http://www.leroymerlin.com.br/mdf-2750-mmx1830-mmx3-mm-5004014-leo-madeiras_88365025)|75.00|
+|2|1|Pacote (5un) placas Isopor 100x50x5cm|[Só Isopor](http://www.soisopor.com.br/?1.0.0.0,1170,pacote-placa-50mm-tipo-1.html)|30.00|
+|4|1|Chapa de acrílico cristal 3mm (cortada 600x400mm)|[Garagem](-)|15.00|
+|5|1|Cooler 80x80x25mm 12V|[Solda Fria](http://www.soldafria.com.br/micro-ventilador-80x80x25hs-12v-sem-rolamento-p-4234.html)|5.74|
+|6|1|Chave liga/desliga gangorra 20A|[Solda Fria](http://www.soldafria.com.br/chave-gangorra-kcd2-102n-vermelha-c-neon-e-marcacao-p-4534.html)|1.35|
+|7|1|Termistor a prova dágua 10K|[Asla](http://asla.com.br/sensor-temperatura-ntc-10k-inox-ip67.html)|26.00|
+|8|1|Display LED segmento quádruplo|[Solda Fria](http://www.soldafria.com.br/display-de-led-vermelho-catodo-quadruplo-d4156ksr-056-p-5992.html)|5.41|
+|9|1|MOSFET|[Mouser](http://br.mouser.com/Search/ProductDetail.aspx?R=STP36NF06Lvirtualkey51120000virtualkey511-STP36NF06L)|4.2|
+|10|4|Resistor 10K 1/4W|[Solda Fria](http://www.soldafria.com.br/resistor-de-10k-carbono-5-14w-mrptlrdr-p-163.html)|0.05|
+|11|1|Diodo 1N4007|[Solda Fria](http://www.soldafria.com.br/diodo-1n4007-p-38.html)|0.10|
 |12|2|Button|[iPrototype](https://iprototype.nl/products/components/buttons-switches/momentary-push-button), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=14721)|0.55|
 |13|1|White LED|[iPrototype](https://iprototype.nl/products/components/led-lcd/ledwit), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=9088)|0.52|
 |14|1|220 Ohm resistor|[iPrototype](https://iprototype.nl/products/components/resistors/220R), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=5785)|0.45|
