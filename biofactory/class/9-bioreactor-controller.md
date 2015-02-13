@@ -6,49 +6,49 @@ permalink: /biofactory/class/9-reactor-controller/
 
 > NOTE: these instructions are still under construction. The designs and BoM might be subject to change.
 
-## Synopsys
+## Sinopse
 
-Now that we have constructed pumps, stirrers and a spectrometer we can start connecting all the dots into one big bioreactor. The controller will be able to set the environmental parameters, input and analyse the effluent of your reactor. 
+Agora que nós construimos as bombas, agitadores e um espectrômetro nós podemos começar conectando todos os pontos em um grande biorreator. O controlador vai ser capaz de definir os parametros ambientais, adentrar e analisar o efluente de seu reator.
 
-## Schedule
+## Agenda 
 
-* Reactor assembly
-* Inoculation and sampling
-* Controller Design
+* Montagem do reator
+* Inoculação e amostragem
+* Projeto do controlador
 
-## Reactor Controller Design
+## Projeto do reator controlador
 
-This week is all about Arduino code. We need to tie everything together into one mean machine.
+Essa semana irá ser toda sobre o código Arduino. Precisamos amarrar tudo junto em uma máquina muito louca.
 
-* [Arduino code](/biofactory/class/19/reactor-controller-arduino-code.txt)
+* [Código Arduino](/biofactory/class/19/reactor-controller-arduino-code.txt)
 
-## Bill of Materials
+## Lista de materiais
 
-In order to take part in this class you will need the following materials:
+Para fazer parte desta aula, você precisará dos seguintes materiais:
 
-* [Reactor Controller materials](/biofactory/class/9-reactor-controller/controller-materials/)
+* [Materiais de controle do reator](/biofactory/class/9-reactor-controller/controller-materials/)
 
-## Assignment
+## Tarefa
 
-Document your entire bioreactor, anwering the following questions:
+Documente seu biorreator por inteiro, respondendo as seguintes perguntas: 
 
-* What does the reactor do? What product has been made?
-* From what designs is it derived?
-* How much does it cost?
-* Which parts have been custom made, by what machine?
-* What are all the components and how much do they cost?
-* How is it assembled?
-* What can be improved?
+* O que o reator faz? Qual produto foi feito? 
+* De que projetos ele é derivado? 
+* Quanto custa?
+* Que partes foram customizadas, e de que máquinas?
+* Quais são todos os componentes e quanto eles custam?
+* Como é montado?
+* O que pode ser melhorado?
 
-## Additional reading and hacking
+## Leitura e hacking adicionais:
 
-* Reactor Design
+* Projeto do reator
   * 
-* Controllers
+* Controladores
   * 
 
-## Feeling lazy?
+## Está com preguiça?
 
-Go ahead and buy a reactor controller:
+Vá em frente, e compre seu próprio controlador de biorreator:
 
 * [Applikon](https://www.applikon-biotechnology.us/products/bioreactors)
