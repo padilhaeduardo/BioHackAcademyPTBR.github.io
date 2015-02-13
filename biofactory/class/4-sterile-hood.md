@@ -1,56 +1,56 @@
 ---
 layout: page
-title: Sterile Hood (Class 4)
+title: Cabine Estéril (Aula 4)
 permalink: /biofactory/class/4-sterile-hood/
 ---
 
 > NOTE: these instructions are still under construction. The designs and BoM might be subject to change.
 
-## Synopsys
+## Sinopse
 
-In order to make it easier to work sterile with microbes, we will construct our own sterile hood. During class you will learn more about biological safety and how to purify strains.
+Para facilitar o trabalho com micoorganismos em ambiente estéril, nós vamos construir nossa própria cabine estéril. Durante a aula você irá aprender mais sobre segurança biológica e como purificar linhagens.
 
-## Schedule
+## Agenda
 
-* Biohacking overview
-* Biological safety instructions
-* Sterile Hood design
+* Visão geral sobre Biohacking 
+* Instruções: Segurança Biológica 
+* Projeto da cabine estéril
 
-## Sterile Hood Design
+## Projeto da cabine estéril
 
-This week we will build the sterile hood. Download the design files here:
+Esta semana iremos construir a cabine estéril. Baixe os arquivos do projeto aqui:
 
-* [Functional and technical requirements](/biofactory/class/4-sterile-hood/requirements/)
-* [SketchUp assembly](/biofactory/class/4/Sterile-Hood-Sketchup.skp)
-* [SVG laser cut files](/biofactory/class/4/Sterile-Hood-SVGs.zip)
+* [Requisitos funcionais e técnicos](/biofactory/class/4-sterile-hood/requirements/)
+* [Montagem SketchUp](/biofactory/class/4/Sterile-Hood-Sketchup.skp)
+* [Arquivos SVG de corte a laser](/biofactory/class/4/Sterile-Hood-SVGs.zip)
 
-![Sterile Hood](/biofactory/class/4/Sterile-Hood.png)
+![Cabine Estéril](/biofactory/class/4/Sterile-Hood.png)
 
-No Fritzing wiring this time, just connect the fan to the switch and plug.
+Sem driagrama Fritzing desta vez, só conecte o ventilador ao interruptor e ligue.
 
-## Bill of Materials
+## Lista de materiais 
 
-In order to take part in this class you will need the following materials:
+Para fazer parte dessa aula, você precisará dos seguintes materiasi:
 
-* [Sterile Hood materials](/biofactory/class/4-sterile-hood/sterile-hood-materials/)
+* [Materiais para Cabine Estéril](/biofactory/class/4-sterile-hood/sterile-hood-materials/)
 
-## Assignment
+## Tarefa
 
-1. Search for previous projects within the Biohack community regarding your biofactory and set up a small reference library on your Github Page.
-2. Start growing your organism in a liquid culture.
+1. Procure por projetos anteriores na comunidade Biohack referentes à sua biofábrica e estabeleça uma pequena biblioteca de referência na sua página do Github. 
+2. Comece a cultivar seus microorgansimos em uma cultura líquida.
 
-## Additional reading and hacking
+## Leituras e hacking adicionais
 
 * Biohacking
   * [Biohacklabs](http://www.biohacklabs.org)
   * [DIYBio](http://www.diybio.org)
   * [Hackteria](http://www.hackteria.org)
   * [Biocoder](http://www.biocoder.com)
-* Sterile Hoods
-  * [Hackteria Sterile Hood](http://hackteria.org/wiki/index.php/DIY_Sterlisation_Hood)
+* Cabines Estéreis
+  * [Cabine Estéril Hackteria](http://hackteria.org/wiki/index.php/DIY_Sterlisation_Hood)
 
-## Feeling lazy?
+## Está com preguiça?
 
-Go ahead and buy a sterile hood:
+Vá em frente e compre sua própria cabine estéril:
 
-* Buy one on [eBay](http://www.ebay.com/bhp/laminar-flow-hood)
+* Compre uma no [eBay](http://www.ebay.com/bhp/laminar-flow-hood)
