@@ -1,64 +1,64 @@
 ---
 layout: page
-title: Syringe & Peristaltic Pump (Class 8)
+title: Bomba de seringa e peristáltica (Aula 8)
 permalink: /biofactory/class/8-pumps/
 ---
 
 > NOTE: these instructions are still under construction. The designs and BoM might be subject to change.
 
-## Synopsys
+## Sinopse
 
-The microbes in your bioreactor need fresh food. Let’s get rid of the manual labour and connect syringe & peristaltic pumps. You will also learn more about feed stocks and other substrates. We’ll go a bit deeper into metabolic networks too.
+Os microorganismos no seu biorreator precisam de comida fresca. Vamos nos livrar do trabalho manual e conectar as bombas de seringa e peristáltica. Você também aprenderá mais sobre estoques de alimentação e outros substratos. Vamos um pouquinho mais a fundo em redes metabólicas também.
 
-## Schedule
+## Agenda
 
-* Metabolic networks & flux analysis
-* Mechinical drive materials
-* Syringe pump design
-* Peristaltic pump design
+* Redes metabólicas e análise de fluxo
+* Materiais de acionamento mecânico
+* Projeto da bomba de seringa
+* Projeto da bomba peristáltica
 
-## Pump Designs
+## Projetos das bombas
 
-This week we will two type of pumps. Download the design files here:
+Esta semana vamos construir dois tipos de bomba. Baixe os arquivos dos projetos aqui:
 
-* [Functional and technical requirements](/biofactory/class/8-pumps/requirements/)
-* Syringe pump design
-  * [SketchUp assembly](/biofactory/class/8/Syringe-Pump-Sketchup.skp)
-  * [SVG laser cut files](/biofactory/class/8/Syringe-Pump-SVGs.zip)
-  * [Fritzing wiring]
-  * [Arduino Code]
+* [Requisitos técnicos e funcionais](/biofactory/class/8-pumps/requirements/)
+* Projeto Bomba de seringa
+  * [Montagem do SketchUp](/biofactory/class/8/Syringe-Pump-Sketchup.skp)
+  * [Arquivos SVG para corte a laser](/biofactory/class/8/Syringe-Pump-SVGs.zip)
+  * [Diagrama Fritzing]
+  * [Código Arduino]
 
-![Syringe Pump](/biofactory/class/8/Syringe-Pump.png)
+![Bomba de Seringa](/biofactory/class/8/Syringe-Pump.png)
 
-* Peristaltic pump design
-  * SketchUp assembly
-  * SVG laser cut files
-  * [Fritzing wiring]
-  * [Arduino Code]
+* Projeto da bomba peristáltica
+  * Montagem do SketchUp
+  * Arquivos SVG para corte a laser
+  * [Diagrama Fritzing]
+  * [Código Arduino]
 
-## Bill of Materials
+## Lista de Materiais
 
-In order to take part in this class you will need the following materials:
+Para tomar parte nesta aula você irá precisar dos seguintes materiais:
 
-* [Syringe Pump materials](/biofactory/class/8-pumps/syringe-pump-materials/)
-* [Peristaltic Pump materials](/biofactory/class/8-pumps/peristaltic-pump-materials/)
+* [Materiais para bomba de seringa](/biofactory/class/8-pumps/syringe-pump-materials/)
+* [Materiais para bomba peristáltica](/biofactory/class/8-pumps/peristaltic-pump-materials/)
 
-## Assignment
+## Tarefa
 
-Document one of your devices in as an instructable.
+Documente um dos seus equipamentos como um guia.
 
-## Additional reading and hacking
+## Leitura e hacking adicionais
 
 * Metabolomics
   * [Wikipedia Flux Analysis](http://en.wikipedia.org/wiki/Flux_balance_analysis
-* DIY Syringe pumps
+* DIY Bombas de Seringa
   * [OpenPump](https://www.wevolver.com/gerrit.niezen/openpump---an-open-source-hardware-syringe-pump/openpump)
-* DIY Peristaltic pumps
+* DIY Bombas peristálticas
   * [Instrutable Peristaltic Pump](http://www.instructables.com/id/Inexpensive-easy-to-build-peristaltic-pump/)
 
-## Feeling lazy?
+## Está com preguiça?
 
-Go ahead and buy some pumps:
+Vá em frente e compre algumas bombas:
 
 * [Syringepump.com](http://www.syringepump.com/index.php)
 * [LabX Peristaltic Pump](http://www.labx.com/pumps-peristaltic)
