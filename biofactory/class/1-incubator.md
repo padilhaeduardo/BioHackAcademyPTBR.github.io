@@ -6,7 +6,7 @@ permalink: /biofactory/class/1-incubator/
 
 ## Sinopse
 
-Construa sua própria encubadora e comece a cultivar seus próprios microorganismos sob condições controladas. Durante as aulas você vai conhecer também os fundamentos da microbiologia. Vamos usar um pigmento roxo padrão para vizualisar as bactérias, mas você também pode optar por seu agente biológico favorito. Um curso intensivo de programação Arduino e soldagem está incluso.
+Construa sua própria incubadora e comece a cultivar seus próprios microorganismos sob condições controladas. Durante as aulas você vai conhecer também os fundamentos da microbiologia. Vamos usar um pigmento roxo padrão para vizualisar as bactérias, mas você também pode optar por seu agente biológico favorito. Um curso intensivo de programação Arduino e soldagem está incluso.
 
 ## Agenda
 
@@ -27,8 +27,8 @@ Essa semana nós vamos construir nosso primeiro dispositivo de laboratório Open
 
 * [Requisitos funcionais e técnicos](/biofactory/class/1-incubator/requirements/)
 * [Montagem do SketchUp](/biofactory/class/1/Incubator-Sketchup.skp)
-* [SVG laser cut files](/biofactory/class/1/Incubator-SVGs.zip)
-* [Fritzing wiring](/biofactory/class/1/Incubator-Fritzing.fzz)
+* [Arquivos SVG para corte a laser](/biofactory/class/1/Incubator-SVGs.zip)
+* [Diagrama Fritzing](/biofactory/class/1/Incubator-Fritzing.fzz)
 * [Código Arduino](/biofactory/class/1/Incubator-Arduino.txt)
 
 ![Incubadora](/biofactory/class/1/Incubator.png)
@@ -48,11 +48,11 @@ Organize sua  própria pasta de documentos aqui no Github.
 
 * Microbiologia
   * [Microbiologia](http://education-portal.com/academy/course/microbiology-course.html)
-  * [Introdução às Técnicas de Cultivo de Microbiologia](https://www.youtube.com/watch?v=Et1v8EQP10U) YouTube video
+  * [Introdução às Técnicas de Cultivo de Microbiologia](https://www.youtube.com/watch?v=Et1v8EQP10U)
 * Arduino
   * [Começando com Arduino](http://www.makeuseof.com/tag/getting-started-with-arduino-a-beginners-guide/)
   * [Tutoriais Ladyada Arduino ](http://www.ladyada.net/learn/arduino/)
-  * [Soldagem](https://www.youtube.com/watch?v=oqV2xU1fee8) YouTube video
+  * [Soldagem](https://www.youtube.com/watch?v=oqV2xU1fee8) 
 * Incubadoras
   * [Climaduino](http://www.instructables.com/id/Introducing-Climaduino-The-Arduino-Based-Thermosta/)
   * [Bioprojeto DIY Incubadora](http://biodesign.cc/2013/12/25/diy-incubator/)
