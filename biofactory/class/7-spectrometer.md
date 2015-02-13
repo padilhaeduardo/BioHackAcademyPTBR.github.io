@@ -6,62 +6,62 @@ permalink: /biofactory/class/7-spectrometer/
 
 > NOTE: these instructions are still under construction. The designs and BoM might be subject to change.
 
-## Synopsys
+## Sinopse
 
-Spectroscopy is an essential tool for monitoring the growth and production in your bioreactor. We will make our own light source and detector setup. The class is about other analytical techniques too.
+Espectroscopia é uma ferramenta essencial para a monitorizar o cultivo e produção no seu bioreator. Nós iremos fazer nossa própria fonte de luz e configuração do detector. A aula é também sobre outras técnicas analíticas.
 
-## Schedule
+## Agenda
 
-* Acids & Bases
-* Spectroscopy & Spectrometry
-* Analytical techniques
-* Spectrometer Design
-* Spectrometry Practical
-  * Iron Calibration Curve
+* Ácidos e bases 
+* Espectroscopia & Espectrometria
+* Técnicas analíticas
+* Projeto do espectrômetro
+* Prática Espectrométrica
+  * Curva de calibração de ferro
 
-## Spectrometer Design
+## Projeto do espectrômetro
 
-This week we will build the spectrometer. You may choose which design. Download the design files here:
+Essa semana iremos construir o espectrômetro. Você pode escolher qual projeto. Baixe os arquivos do projeto aqui:
 
-* [Functional and technical requirements](/biofactory/class/7-spectrometer/requirements/)
-* Webcam design
-  * [SketchUp assembly](/biofactory/class/7/Webcam-Spectrometer-Sketchup.skp)
-  * [SVG laser cut files](/biofactory/class/7/Webcam-Spectrometer-SVGs.zip)
+* [Requisitos técnicos e funcionais](/biofactory/class/7-spectrometer/requirements/)
+* Projeto da Webcam
+  * [SketchUp montagem](/biofactory/class/7/Webcam-Spectrometer-Sketchup.skp)
+  * [Arquivos SVG para corte a laser](/biofactory/class/7/Webcam-Spectrometer-SVGs.zip)
 
-![Webcam Spectrometer](/biofactory/class/7/Webcam-Spectrometer.png)
+![Espectrômetro de webcam](/biofactory/class/7/Webcam-Spectrometer.png)
 
-* Photodiode array design
-  * [SketchUp assembly](/biofactory/class/7/CCD-Array-Spectrometer-Sketchup.skp)
-  * [SVG laser cut files](/biofactory/class/7/CCD-Array-Spectrometer-SVGs.zip)
-  * [Fritzing wiring](/biofactory/class/7/Spectrometer-Fritzing.fzz)
+* Projeto de arranjo de fotodiodo 
+  * [SketchUp montagem](/biofactory/class/7/CCD-Array-Spectrometer-Sketchup.skp)
+  * [Arquivos SVG de corte a laser](/biofactory/class/7/CCD-Array-Spectrometer-SVGs.zip)
+  * [Diagrama Fritzing](/biofactory/class/7/Spectrometer-Fritzing.fzz)
 
-![CCD Array Spectrometer](/biofactory/class/7/CCD-Array-Spectrometer.png)
+![Arranjo CCD do Espectrômetro](/biofactory/class/7/CCD-Array-Spectrometer.png)
 
-## Bill of Materials
+## Lista de materiais
 
-In order to take part in this class you will need the following materials:
+Para participar desta aula, você irá precisar dos seguintes materiais?
 
-* [Spectrometer materials](/biofactory/class/7-spectrometer/spectrometer-materials/)
-* Spectrometry materials
+* [Materiais do Espectrômetro](/biofactory/class/7-spectrometer/spectrometer-materials/)
+* Materiais espectromia
 
-## Assignment
+## Tarefa
 
-Hack the spectrometer into a flow spectrometer.
+Transforme o espectrômetro convencial em um espectrômetro de fluxo.
 
-## Additional reading and hacking
+## Leitura e hacking adicionais:
 
-* Spectroscopy
+* Espectroscopia
   * [PublicLab](http://publiclab.org/wiki/spectrometer)
-* DIY Spectrometers
+* DIY Espectrômetros
   * [Really Basic - Instructable](http://www.instructables.com/id/DIY-Spectroscope/)
   * [Spectruino](http://myspectral.com/)
   * [CCD array](http://publiclab.org/notes/bhickman/10-12-2013/ccd-diodearray-spectrometer)
   * [TSL1402R](http://playground.arduino.cc/Main/TSL1402R)
-* DIY absorbance meters
+* DIY medidor de absorvência
   * [Open Source Colorimeter](http://www.appropedia.org/Open-source_colorimeter)
 
-## Feeling lazy?
+## Está com preguiça?
 
-Go ahead and buy a spectrometer:
+Vá em frente e compre seu espectrômetro:
 
-* Second hand photospectrometers at [LabX](http://www.labx.com/spectrophotometer-uv-vis-fluor) 
+* Fotoespectrômetros de segunda mão: [LabX](http://www.labx.com/spectrophotometer-uv-vis-fluor) 
