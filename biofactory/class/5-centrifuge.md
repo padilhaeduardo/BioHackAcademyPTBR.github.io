@@ -6,52 +6,52 @@ permalink: /biofactory/class/5-centrifuge/
 
 > NOTE: these instructions are still under construction. The designs and BoM might be subject to change.
 
-## Synopsys
+## Sinopse
 
-We’ll try to isolate our first biomaterial. For that we need centrifugal force to take your samples for a spin. In class you will learn more about analog electronics and physical separation techniques.
+Vamos tentar isolar nosso primeiro material biológico. Para isso nós precisamos da força centrífuga para girar suas amostras. Nesta aula você vai aprender mais sobre eletronica analógica e técnicas de separação física. 
 
-## Schedule
+## Agenda
 
-* Electronics
-* Fritzing documentation
+* Electronica
+* Documentação Fritzing
 * OpenSCAD
-* Centrifugation
-* Centrifuge design
+* Centrifugação
+* Projeto da centrífuga
 
-## Centrifuge Design
+## Projeto da centrífuga
 
-This week we will build the centrifuge. Download the design files here:
+Essa semana iremos construir a centrífuga. Baixe os arquivos do projeto aqui: 
 
-* [Functional and technical requirements](/biofactory/class/5-centrifuge/requirements/)
-* [SketchUp assembly](/biofactory/class/5/Centrifuge-Sketchup.skp)
-* [SVG laser cut files](/biofactory/class/5/Centrifuge-SVGs.zip)
-* [Fritzing wiring](/biofactory/class/5/Centrifuge-Fritzing.fz)
+* [Requisitos técnicos e funcionais](/biofactory/class/5-centrifuge/requirements/)
+* [SketchUp montagem](/biofactory/class/5/Centrifuge-Sketchup.skp)
+* [Arquivos SVG de corte a laser](/biofactory/class/5/Centrifuge-SVGs.zip)
+* [Diagrama Fritzing](/biofactory/class/5/Centrifuge-Fritzing.fz)
 
-![Sterile Hood](/biofactory/class/5/Centrifuge.png)
+![Cabine estéril](/biofactory/class/5/Centrifuge.png)
 
-## Bill of Materials
+## Lista de materiais
 
-In order to take part in this class you will need the following materials:
+Para fazer parte desta aula, você vai precisar dos seguintes materiais:
 
-* [Centrifuge materials](/biofactory/class/5-centrifuge/centrifuge-materials/)
+* [Materiais da centrífuga](/biofactory/class/5-centrifuge/centrifuge-materials/)
 
-## Assignment
+## Tarefa
 
-Start sketching your bioreactor controller in Fritzing.
+Comece desenhando seu controlador de biorreator no Fritzing.
 
-## Additional reading and hacking
+## Leitura e hacking adicionais:
 
-* Electronics
-  * [Electronics for Dummies](http://www.amazon.com/Electronics-For-Dummies-Cathleen-Shamieh/dp/0470286970)
+* Electronica
+  * [Eletronica para leigos](http://www.amazon.com/Electronics-For-Dummies-Cathleen-Shamieh/dp/0470286970)
 * Fritzing
-  * [Fritzing Tutorials](http://fritzing.org/learning/tutorials)
+  * [Tutorial Fritzing](http://fritzing.org/learning/tutorials)
 * Centrifugation
   * [Forbidden F Word](http://www.physicsclassroom.com/class/circles/Lesson-1/The-Forbidden-F-Word)
 * Centrifuge
   * [RWXBioFuge](https://github.com/PieterVanBoheemen/RWXBioFuge)
 
-## Feeling lazy?
+## Está com preguiça?
 
-Go ahead and buy a table top centrifuge:
+Vá em frente e compre sua própria centrífuga de bancada:
 
 * [Eppendorf 5424](http://www.eppendorf.com/int/index.php?sitemap=2.1&action=products&contentid=1&catalognode=22420)
