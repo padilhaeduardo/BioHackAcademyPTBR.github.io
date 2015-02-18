@@ -1,57 +1,57 @@
 ---
 layout: page
-title: Gram Staining
+title: Coloração de Gram
 permalink: /biofactory/class/2-microscope/gram-staining/
 ---
 
-## Goal
+## Objetivo
 
-Assess whether the biological sample contains Gram positive or Gram negative strains.
+Avaliar se a amostra biológica contém linhagens Gram positivas ou Gram negativas.
 
-## Materials
+## Materiais
 
-* Gas burner
-* Crystal Violet
-* 95% alcohol
-* Iodine
-* Safranin
-* Tap water
-* Blotting paper
+* Chama a gás
+* Cristal Violeta (Violeta Genciana)
+* Álcool 95%
+* Iodo
+* Safranina
+* Água de torneira
+* Papel absorvente
 
-## Method
+## Método
 
-1. Prepare a drop of sample on your microscope slide according to our [Method](/biofactory/class/2-microscope/preparing-slides/)
-2. Leave the sample to air dry for 5 to 10 minutes.
-3. Fixate by moving the slide back and forth through a flame for a few seconds.
-4. Stain the sample by a droplet of crystal violet and let it stain for max 60 seconds.
-5. Wash the crystal violet by tap water.
-6. Add the iodine solution for 60 seconds.
-7. Wash with tap water.
-8. Decolorize using 95 % ethanol and immediately rinse with tap water. Don't let it on the slide for too long.
-9. Counter stain with safranin for about 60 seconds.
-10. Wash of the stain with tap water.
-11. Remove excess water using the blotting paper.
-12. Cover the sample with a cover slide.
-13. Take a look with the microscope with full light intensity (open diaphragma)
+1. Prepare uma gota da amostra numa lâmina de microscopia de acordo com nosso [Método](/biofactory/class/2-microscope/preparing-slides/)
+2. Deixe a amostra secar ao ar de 5 a 10 minutos.
+3. Fixe a amostra movendo a lâmina para a frente e para trás através da chama por alguns segundos.
+4. Cubra a amostra com Cristal Violeta (Violeta genciana) e deixe corar por no máximo 60 segundos.
+5. Lave o Cristal Violeta com água de torneira.
+6. Adicione a solução de iodo por 60 segundos.
+7. Lave com água de torneira.
+8. Descolore usando etanol 95 % e imediatamente lave com água de torneira. Não deixe o etanol por muito tempo sobre a lâmina.
+9. Adicione a safranina por 60 segundos.
+10. Lave o corante com água de torneira.
+11. Remova o excesso de água usando papel absorvente.
+12. Cubra a amostra com a lamínula.
+13. Dê uma olhada sob o microscópio com máxima intensidade de luz (abra o diafragma)
 
-## Interpreting the results
+## Interpretando os resultados
 
-* Gram positive cells appear violet
-* Gram negative cells appear red
+* Células Gram positivas aparecem com cor violeta
+* Células Gram negativas aparecem com cor vermelha
 
-# Composition of the stains
+# Composição dos corantes
 
-* Crystal violet: 1 g of dry crystal violet in 10 mL 95% ethanol
-* Iodine solution: 1 g of iodine in 100 mL water
-* Safranin: 0.25 g of safrin in 10 mL 95% ethanol and 90 mL water 
+* Violeta Cristal (Violeta genciana): 1 g de cristal violeta seco iem 10 mL de etanol 95% 
+* Solução de Iodo: 1 g de iodo em 100 mL de água
+* Safranina: 0.25 g de safranina em 10 mL de etanol 95% e 90 mL de água 
 
-![Gram Stain](/biofactory/class/2/gram-stain.jpg)
+![Coloração de Gram](/biofactory/class/2/gram-stain.jpg)
 
-Microscopic image of a Gram stain of mixed Gram-positive cocci (Staphylococcus aureus ATCC 25923, purple) and Gram-negative bacilli (Escherichia coli ATCC 11775, red). Magnification: 1.000x - Picture by [Y tambe](http://commons.wikimedia.org/wiki/File:Gram_stain_01.jpg) CC BY SA 3.0 license 
+Imagem microscópica de coloração de Gram de cocci Gram-positivos (Staphylococcus aureus ATCC 25923, roxo) e bacilli Gram-negativos (Escherichia coli ATCC 11775, vermelho). Aumento: 1.000x - Imagem de [Y tambe](http://commons.wikimedia.org/wiki/File:Gram_stain_01.jpg) CC BY SA 3.0 license 
 
-## Read more
+## Leia mais
 
 * [Wikipedia](http://en.wikipedia.org/wiki/Gram_staining)
-* [Gram Staining instruction video](https://www.youtube.com/watch?v=9Bnak_ITqck)
+* [Video instrução coloração de Gram](https://www.youtube.com/watch?v=9Bnak_ITqck)
 
-Back to [Biofactory - Class 2: Microscope](/biofactory/class/2-microscope/)
+De volta à [Biofactory - Class 2: Microscope](/biofactory/class/2-microscope/)
