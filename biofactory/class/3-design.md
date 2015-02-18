@@ -1,41 +1,41 @@
 ---
 layout: page
-title: 2D & 3D Design (Class 3)
+title: 2D & 3D Design (Aula 3)
 permalink: /biofactory/class/3-design/
 ---
 
 > NOTE: these instructions are still under construction. The designs and BoM might be subject to change.
 
-## Synopsys
+## Sinopse
 
-This class is essential. You will learn how to design objects in 2D and 3D and transform them into real objects with a lasercutter or 3D printer. As a demo we will make basic lab utilities, such as tube racks. 
+Esta aula é essencial. Você aprenderá como projetar objetos em 2D e 3D e transformá-los em objetos reais com a cortadora a laser ou impressora 3D. Como demonstração faremos utensílios básicos de laboratório, tais como suportes para tubos de ensaio.
 
-## Schedule
+## Agenda
 
-* Digital Fabrication & Materials
-* Construction
+* Fabricação Digital e Materiais 
+* Construção
 * SketchUp
 * OpenSCAD
-* Practicals
-  * 3D Printing
-  * Lasercutting
+* Prática
+  * Impressão 3D
+  * Corte a laser
 
-## Example files
+## Exemplos de arquivos 
 
 * SketchUp
-  * Wood joints
+  * Junções de madeira 
 * OpenSCAD
-  * [Centrifuge rotor](/biofactory/class/3/Rotor.scad)
+  * [Rotor da centrífuga](/biofactory/class/3/Rotor.scad)
 
-## Assignment
+## Tarefa
 
-Design a personal laboratory tool
+Projete um utensílio de laboratório pessoal
 
-## Additional reading and hacking
+## Leitura e hacking adicionais
 
-* 3D Design
+* Projeto 3D
   * [OpenSCAD](http://blog.openpump.org/how-to-design-a-3d-printed-enclosure-for-your-product/)
-* 2D Design
+* Projeto 2D
   * [CNC panel joinery notebook](http://makezine.com/2012/04/13/cnc-panel-joinery-notebook/)
-* Materials
+* Materiais
   * [Fablab Amsterdam Suppliers](http://fablab.waag.org/views/suppliers)
