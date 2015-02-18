@@ -4,30 +4,29 @@ title: Centrifuge requirements
 permalink: /biofactory/class/5-centrifuge/requirements/
 ---
 
-## Functional requirements
+## Requisitos Funcionais
+**Deve-se ter**
 
-**Must have**
+1. Gaiola de segurança para rotor
+2. Rotor de 8 lugares para tubo de centrífuga de 2 mL
+3. Forte o suficiente para pelletar células (10,000 RPM)
+4. Velocidade ajustável
 
-1. Safe rotor cage
-2. 8 place rotor for 2 mL centrifuge tube
-3. Strong enough to pellet cells (10,000 RPM)
-4. Adjustable speed
+**É bom ter**
 
-**Nice to have**
+1. Monitor RPM
 
-1. RPM monitor
+## Requisitos Técnicos
 
-## Technical requirements
+**Deve-se ter**
 
-**Must have**
-
-1. Metal or reenforcement sheet on acrylic cage
-2. 3D printed rotor
+1. Metal ou folha de reforço na gaiola de acrílico
+2. Rotor 3D impresso 
 3. Brushless outer runner
-4. Electronic speed controller
+4. Controlador de velocidade eletrônico
 
-**Nice to have**
+**É bom ter**
 
-1. Infra red light & sensor
+1. Luz infra-vermelho & sensor
 
-Back to [Biofactory - Class 5: Centrifuge](/biofactory/class/5-centrifuge/)
+De volta à [Biofactory - Class 5: Centrifuge](/biofactory/class/5-centrifuge/)
