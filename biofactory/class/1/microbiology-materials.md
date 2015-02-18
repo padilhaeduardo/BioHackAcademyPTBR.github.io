@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Microbiology Practical Materials
+title: Materiais para Práticas Microbiológicas
 permalink: /biofactory/class/1-incubator/microbiology-materials/
 ---
 
-When following the Biohack Academy, all these materials are provided for by Waag Society. This list is just meant for future reference.
+Quando estiver dentro da Biohack Academy, todos estes materiais são fornecidos pela Waag Society. Esta lista é sugerida para referências futuras.
 
-## Compounds
+## Componentes
 
-|#|Compound|Prof Supplier|Alternative|
+|#|Componentes|Prof Supplier|Alternativas|
 |-:|:----|:---------|-------:|:---|
 |1|Ethanol (70%)||[DeWeegschaal](http://www.deweegschaal.nl/chempropack/alcohol-70-ethanol-10-isopropanol-250ml) [Drogist](https://www.drogist.nl/tendo-alcohol-70-gedenatureerd-120-ml.htm?utm_source=beslist.nl&utm_medium=feed&utm_campaign=vergelijken&utm_content=default3) [Kruidvat](https://www.kruidvat.nl/kruidvat-70-alcohol-ketonatus/p/2639904)|
 |2|Bacteriological Agar|[SigmaAldrich](http://www.sigmaaldrich.com/catalog/product/sigma/a6686?lang=en&region=NL)|Agar Agar, [Guar Gum](http://www.amazon.com/NOW-Foods-Guar-Powder-Ounces/dp/B0015BWIZS)[Reference](http://www.ncbi.nlm.nih.gov/pubmed/16162142)|
@@ -38,19 +38,19 @@ When following the Biohack Academy, all these materials are provided for by Waag
 |26|Safranin|[SigmaAldrich](http://www.sigmaaldrich.com/catalog/product/sigma/84120?lang=en&region=NL)|Gram staining kit [Amazon](http://www.amazon.com/Grams-Safranin-Stain-250-mL/dp/B0017U7W6W)|
 |27|Thiosulfate|[SigmaAldrich](http://www.sigmaaldrich.com/catalog/product/sial/217263?lang=en&region=NL)|online lab stores [Amazon](http://www.amazon.com/Hanna-Instrument-HI70439-Thiosulfate-Solution/dp/B0085XM8HC/ref=sr_1_7?s=industrial&ie=UTF8&qid=1419354374&sr=1-7&keywords=thiosulfate)|
 
-## Materials
+## Materiais
 
-* Glycerol - Sold as "Glycerine" in drug stores
-* Nitrogen test strips - Sold in aquarium stores
-* pH test strips - Sold in aquarium stores
-* 9 cm Petridishes - Home brewing store
-* 100 mL Erlenmeyer flasks - Home brewing store or [lab glass store](http://www.laboratoriumglas.eu/index.php?item=&action=page&group_id=10000006&lang=NL)
-* 500 mL GL Bottles - [Lab glass store](http://www.laboratoriumglas.eu/index.php?item=labfles-500-ml-met-gl-45&action=article&group_id=56&aid=301&lang=NL)
-* 15mL Test tubes - Home brewing store
-* 100 mL Beaker glasses - Home brewing store or [Lab glass store](http://www.laboratoriumglas.eu)
-* Glass spatula - Also sometimes refered to as "Drigalski Spatula" [VWR](https://nl.vwr.com/store/catalog/product.jsp?catalog_number=231-2183)
-* Inoculation wire - just take a piece of metal wire
-* Aquarium pump, tube and diffuser - aquarium store obviously
+* Glicerol - Vendido como "Glicerina" em farmácias
+* Tiras para teste de Nitrogênio - Vendidas em lojas de aquarismo
+* Tiras para teste de pH  - Vendidas em lojas de aquarismo
+* Placas de Petri de 9 cm  - Loja de artigos para cervejaria
+* Frascos 100 mL Erlenmeyer  - Loja de artigos para cervejaria ou [lab glass store](http://www.laboratoriumglas.eu/index.php?item=&action=page&group_id=10000006&lang=NL)
+* Garrafas GL de 500 mL - [Lab glass store](http://www.laboratoriumglas.eu/index.php?item=labfles-500-ml-met-gl-45&action=article&group_id=56&aid=301&lang=NL)
+* Tubos de ensaio de 15mL - Loja de artigos para cervejaria
+* Provetas 100 mL - Loja de artigos para cervejaria [Lab glass store](http://www.laboratoriumglas.eu)
+* Espatula de Vidro  - Também citada como "Espátula de Drigalski" [VWR](https://nl.vwr.com/store/catalog/product.jsp?catalog_number=231-2183)
+* Alça de Drigalski - ou simplesmente use um pedaço de arame
+* Bomba de aquário, tubo e difusor - lojas de aquarismo
 
 
-Back to [Biofactory - Class 1: Incubator](/biofactory/class/1-incubator/)
+De volta à [Biofactory - Class 1: Incubator](/biofactory/class/1-incubator/)
