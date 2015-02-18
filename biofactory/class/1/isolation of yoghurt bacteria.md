@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Isolation of Yoghurt bacteria
+title: Isolamento de Bactérias do Iogurte
 permalink: /biofactory/class/1-incubator/yoghurt-bacteria-isolation/
 ---
 
