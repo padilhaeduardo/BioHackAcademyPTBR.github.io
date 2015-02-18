@@ -1,30 +1,30 @@
 ---
 layout: page
-title: Sterile Hood requirements
+title: Requisitos Cabine Estéril
 permalink: /biofactory/class/4-sterile-hood/requirements/
 ---
 
-## Functional requirements
+## Requisitos Funcionais
 
-**Must have**
+**Deve-se ter**
 
-1. Sterile working area, about the size of 10 petridishes
-2. Horizontal flow
+1. Área de trabalho estéril, sobre o tamanho de 10 placas de Petri
+2. Fluxo horizontal
 
-**Nice to have**
+**É bom ter**
 
-1. Adjustable airflow
+1. Fluxo de ar ajustável
 
-## Technical requirements
+## Requisitos Técnicos
 
-**Must have**
+**Deve-se ter**
 
-1. HEPA class H14 filter
-2. 0.5 m2/h airflow for laminar flow
-3. On/off switch
+1. Filtro HEPA classe H14 
+2. 0.5 m2/h fluxo de ar para fluxo laminar
+3. On/off interruptor
 
-**Nice to have**
+**É bom ter**
 
-1. Power regulator
+1. Regulador de energia
 
-Back to [Biofactory - Class 4: Sterile Hood](/biofactory/class/4-sterile-hood/)
+De volta à [Biofactory - Class 4: Sterile Hood](/biofactory/class/4-sterile-hood/)
