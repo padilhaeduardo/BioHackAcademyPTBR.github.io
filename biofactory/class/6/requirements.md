@@ -1,22 +1,22 @@
 ---
 layout: page
-title: Magnetic Stirrer requirements
+title: Requisitos Agitador Magnético
 permalink: /biofactory/class/6-magnetic-stirrer/requirements/
 ---
 
-## Functional requirements
+## Requisitos Funcionais
 
-**Must have**
+**Deve-se ter**
 
-1. Rotating Magnets
-2. Adjustable speed
+1. Ímãs rotativos
+2. Velocidade ajustável
 
-## Technical requirements
+## Requisitos Técnicos
 
-**Must have**
+**Deve-se ter**
 
-1. Fan
-2. Permanent magnet
-3. Potential meter
+1. Ventilador
+2. Ímã permanente
+3. Medidor de potencial
 
-Back to [Biofactory - Class 6: Magnetic Stirrer](/biofactory/class/6-magnetic-stirrer/)
+De volta à [Biofábrica - Aula 6: Agitador Magnético](/biofactory/class/6-magnetic-stirrer/)
