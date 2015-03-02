@@ -22,7 +22,7 @@ Desta vez nós não iremos usar um microprocessador.
 |--|--|---|---|---|
 |||*Custo total*|||
 
-* Você também precisará de MDF 3mm e alguns parafusos e porcas M3 10 mm
+* Você também precisará de MDF 3mm e alguns parafusos e porcas M3 10 mm 
 
 ### É bom ter
 
