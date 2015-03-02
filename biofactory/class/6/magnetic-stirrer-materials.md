@@ -12,7 +12,7 @@ Para este quipamento você não precisa de um Arduino ou microprocessador equiva
 
 ### Deve-se ter
 
-|#|Quantidade|Descrição|Fornecedor NL|Custo|
+|#|Quantidade|Descrição|Fornecedor NL|Custo| 
 |-:|----:|:---------|:-------|---:|
 |1|1|Ventilador|[Farnell](http://nl.farnell.com/bisonic/sp802512l-03/fan-80x25mm-12vdc/dp/1832326)|8.99|
 |2|2|Ímãs Permanentes|[Supermagnete](http://www.supermagnete.nl/blokmagneten-neodymium-middelgroot/blokmagneet-10mm-x-10mm-x-5mm-neodymium-n42-vernikkeld_Q-10-10-05-N)|0.65|
