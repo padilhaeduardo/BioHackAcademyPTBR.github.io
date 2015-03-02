@@ -24,7 +24,7 @@ permalink: /biofactory/class/5-centrifuge/requirements/
 1. Metal ou folha de reforço na gaiola de acrílico 
 2. Rotor impressora 3D
 3. Corredor exterior Brushless
-4. Controlador eletrônico de velocidade
+4. Controlador eletrônico de velocidade 
 
 **É bom ter**
 
