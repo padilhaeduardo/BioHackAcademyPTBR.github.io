@@ -33,7 +33,7 @@ Essa semana nós vamos construir nosso primeiro dispositivo de laboratório Open
 
 ![Incubadora](/biofactory/class/1/Incubator.png)
 
-## Lista de Materiais
+## Lista de Materiais 
 
 Para fazer parte dessa aula, você precisará dos seguintes materiais:
 
