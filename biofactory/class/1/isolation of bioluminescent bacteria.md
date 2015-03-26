@@ -1,36 +1,36 @@
 ---
 layout: page
-title: Isolation of bioluminescent bacteria
+title: Isolamento de bacterias bioluminescentes
 permalink: /biofactory/class/1-incubator/bioluminescent-bacteria-isolation/
 ---
 
-## Goal
+## Objetivo
 
-In the ocean many organisms produce light. There are also many diffent colors. In this practical we will isolate these bacteria from fresh fish.
+No oceano muitos organismos produzem luz. Existem também muitas cores diferentes. Nesta prática nós vamos isolar essas bactérias de um peixe fresco.
 
-## Materials
+## Materiais
 
-* 1 Fresh fish
-* 4 [Artificial Seawater](/biofactory/annex/cultivation-media/artficial-seawater/) plates, simply add 10% agar before autoclaving
+* 1 Peixe fresco
+* 4 [Artificial Seawater](/biofactory/annex/cultivation-media/artficial-seawater/) placas, simplesmente adicione agar 10% antes de autocalavar.
 * 100 mL [Artificial Seawater](/biofactory/annex/cultivation-media/artficial-seawater/)
-* 2 50 mL Erlenmeyer flasks
-* Glass spatula
-* Inoculation loop
-* 100 mL beaker glass with some 95% ethanol
-* Gas burner
-* Air pump, tube and diffuser
+* Erlenmeyer 250 mL 
+* Espátula de vidro
+* Alça de Drigalsky
+* Béquer de vidro 100 mL com etanol 95%
+* Chama de gás
+* Bomba de ar, tubo e difusor
 
-## Method
+## Método
 
-1. Sterilize a inoculation loop in a flame
-2. When it is cooled down, scrape the loop along the skin of the fish
-3. Streak the loop onto the plate
-4. Repeat this procedure onto a second plate
-5. Incubate one plate at RT(24&deg; C) and one in the fridge (8&deg; C)
-6. Take a look at your plates in total darkness after 2 days or more
-7. As soon as you can observe colonies, restreak these on fresh plates
-8. As soon as all colonies look the same, you may assume you have a pure culture
-9. Sub culture a colony in a 25 mL ASW liquid medium in a Erlenmeyer flask. Incubate at 24&deg; C.
-10. Put the tube with diffuser in the flask and turn on the air pump
+1. Esterilize uma alça de Drigalsky na chama
+2. Quando esfriar, raspe a alça ao longo da pele do peixe
+3. Estrie a alça na placa
+4. Repita o precedimento em uma segunda placa
+5. Incube uma placa à temperatura ambiente (24ºC)e uma na geladeira (8ºC)
+6. Olhe suas placas na escuridão total depois de dois dias ou mais
+7. Assim que puder observar colônias, reestrie-as em placas frescas
+8. Assim que todas as colônias parecerem a mesma, você pode assumir que possui uma cultura pura
+9. Sub-cultive uma colônia em 25 mL de meio líquido ASW em um frasco Erlenmeyer. Incube a 24ºC.
+10. Coloque o tubo com difusor no frasco e ligue a bomba de ar
 
-Back to [Biofactory - Class 1: Incubator](/biofactory/class/1-incubator/)
+De volta à [Bio-fábrica - Aula 1: Incubadora](/biofactory/class/1-incubator/)
