@@ -1,30 +1,30 @@
 ---
 layout: page
-title: Isolation of Sulphur-oxidizing bacteria
+title: Isolamento de bactérias oxidantes de Enxofre
 permalink: /biofactory/class/1-incubator/isolation-of-sulphur-oxidizing-bacteria/
 ---
 
-## Goal
+## Objetivo
 
-Some bacteria can grown without any organic compound, except CO<sub>2</sub>. These autotrophs can for example get their energy from sulphur.
+Algumas bactérias podem crescer sem nemhum composto orgânico, exceto CO<sub>2</sub>. Estes autótrofos podem, por exemplo, conseguir sua energia do Enxofre.
 
-## Materials
+## Materiais
 
-* 100 mL of [THt](http://127.0.0.1:4000/biofactory/annex/cultivation-media/tht/)
-* 3 50 mL erlenmeyer flasks
-* Soil
-* pH test strips
+* 100 mL de [THt](http://127.0.0.1:4000/biofactory/annex/cultivation-media/tht/)
+* Frascos Erlenmeyer de 350 mL 
+* Solo
+* Tiras de teste para pH
 
-## Method
+## Método
 
-1. Prepare 2 Erlenmeyer flasks by transfering 25 mL THt into each.
-2. Add some soil to one of the Erlenmeyer flasks.
-3. Save the other Erlenmeyer as negative sterile control.
-4. Clearly label the flasks: name, date & content.
-5. Incubate the flasks at 30&deg; C on a shaker.
-6. Inspect the flasks every day or two.
-7. As soon as (most likely after one week)  a small film can be observed on the surface of the medium, transfer a small amount into a fresh Erlenmeyer flask with 25 mL medium.
-8. Incubate this flask again at 30&deg; C on a shaker.
-9. Check for color change and measure the pH.
+1. Prepare 2 frascos Erlenmeyer transferindo 25 mL de THt para cada.
+2. Adicione um pouco de solo a um dos frascos Erlenmeyer.
+3. Guarde o outro frasco como controle negativo estéril.
+4. Rotule claramente os frascos: nome, data & conteúdo.
+5. Incube os frascos a 30ºC em um agitador.
+6. Inspecione os frascos a cada dia ou dois.
+7. Assim que (mais provavelmente depois de uma semana)  uma pequena película possa ser observada da superfície do meio, trasfira uma pequena porção para um frasco Erlenmeyer fresco com 25 mL de meio.
+8. Incube este frasco novamente a 30ºC em um agitador.
+9. Fique atento a mudanças de cor e meça o pH.
 
-Back to [Biofactory - Class 1: Incubator](/biofactory/class/1-incubator/)
+De volta à [Bio-fábrica - Aula 1: Incubator](/biofactory/class/1-incubator/)
