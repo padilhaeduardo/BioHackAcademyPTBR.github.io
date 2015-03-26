@@ -1,39 +1,38 @@
 ---
 layout: page
-title: Incubator requirements
+title: Requisitos Incubadora
 permalink: /biofactory/class/1-incubator/requirements/
 ---
 
-## Functional requirements
+## Requisitos Funcionais
 
-**Must have**
+**Deve-se ter**
 
-1. Heat isolated enclosed cabinet, with see-through window
-2. Heat source
-3. Temperature controller
-4. Temperature indicator
-5. User interface to set temperature
+1. Cabine fechada isolada termicamente, com janelaw
+2. Fonte de calor
+3. Controlador de temperatura
+4. Indicador de temperatura
+5. Interface de usuário para definir temperatura
 
-**Nice to have**
+**É bom ter**
 
-1. Open door detector
-2. Temperature alarm
+1. Detector de abertura da porta
+2. Alarme de temperatura
 
-## Technical requirements
+## Requisitos técnicos
 
-**Must have**
+**Deve-se ter**
 
-1. Box with expanded polystyrene isolation with a transparent door
-  * Outer measures 35 (w) x 45 (d) x 50 (h) cm
-  * Inner measures 25 (w) x 30 (d) x 40 (h) cm
-2. Heat resistor, cooling ribs and fan controlled by a relay
-3. Arduino UNO microprocessor
-4. Temperature sensor and display 
-5. 2 push buttons for increasing / decrease the set temperature
+1. Caixa com isolamento expandido de poliestireno com porta transparente
+  * Medidas externas 35 (w) x 45 (d) x 50 (h) cm
+  * Medidas internas 25 (w) x 30 (d) x 40 (h) cm
+2. Resistor de calor , aletas de refrigeração e ventilador controlados por um relé
+3. Arduino UNO microprocessador
+4. Sensor de temperatura e display 
+5. Dois botões para aumentar / diminuir a temperatura definida
 
-**Nice to have**
+**É bom ter**
 
-1. Lever switch
-2. Speaker
-
-Back to [Biofactory - Class 1: Incubator](/biofactory/class/1-incubator/)
+1. Interruptor 
+2. Auto-falante
+De volta à [Bio-fábrica - Aula 1: Incubadora](/biofactory/class/1-incubator/)
