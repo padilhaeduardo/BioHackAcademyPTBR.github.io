@@ -1,39 +1,38 @@
 ---
 layout: default
-title: Waste Guide
+title: Guia de Descarte
 permalink: /biofactory/annex/waste-guide/
 ---
 
-## Waste Guide
+## Guia de Descarte
 
-Take note of the following before disposing of anything in the lab
+Tome nota do seguinte antes de descartar qualquer coisa no laboratório:
 
-### Used microbial plates
+### Placas microbiológicas usadas
 
-Collect the plates in an autoclave bag and sterilize in the pressure cooker by boiling for 20 minutes.
+Colete as placas dentro de um saco de autoclave e as esterilize na panela de pressão fervendo-as por 20 minutos.
 
-### Used culture tubes
+### Tubos de cultura usados
 
-Poor the content into a big bottle and collect the tubes in an autoclave bag. Sterilize both in the pressure cooker by boiling for 20 minutes.
+Despeje o conteúdo em uma garrafa grande e colete os tubos num saco de autoclave. Esterilize ambos na panela de pressão fervendo-os por 20 minutos.
+### Pipetas Pasteur de plástico
 
-### Plastic pasteur transfer pipettes
+Quando usadas para transferir culturas líquidas: colete-as dentro de um saco de autoclave e as esterilize na panela de pressão fervendo-as por 20 minutos. 
 
-When used to transfer liquid cultures: collect in an autoclave bag and sterilize in the pressure cooker by boiling for 20 minutes.
+Quando usadas somente para transferir meio e outros líquidos: descarte-as na lixeira.
 
-When used for transfering just medium or other liquids: dispose in the trash bin.
+### Vidros: Pipetas de vidro, lâminas de microscopia, materiais quebrados
 
-### Glass: Glass pipettes, Microscope slides, Broken material
+Colete em uma caixa de descarte de vidros no laboratório.
 
-Collect in the glass wear box in the lab.
+### Comida, bebidas
 
-### Food, drinks
+Aha! Te peguei! Nunca coma ou beba no lab!
 
-Aha! Got ya! Never ever eat or drink in the lab!
+### Coloração
 
-### Staining
+Use o menos corante possível em primeiro lugar. Absorva em papel toalha ou jornais velhos. Deixe secar e descarte.
 
-Use as little staining dye as possible in the first place. Absorp in paper towels or old news papers. Let it dry and dispose of it.
+### Soluções líquidas
 
-### Liquid solutions
-
-Check with the lab manager whether you can poor it down the sink (depends on the content).
+Cheque com o gerente do laboratório se você pode entorná-las na pia (dependendo do conteúdo).
