@@ -1,36 +1,36 @@
 ---
 layout: page
-title: Isolation of Nitrogen-fixating bacteria
+title: Isolamento de bactérias fixadoras de Nitrogênio
 permalink: /biofactory/class/1-incubator/isolation-of-nitrogen-fixating-bacteria/
 ---
 
-## Goal
+## Objetivo
 
 N<sub>2</sub> is a gas that ubiquitously available in the atmosphere. Some special bacteria are capable of fixating it and thereby make it available for other life forms. In this experiment we will isolate them from soil.
 
-## Materials
+## Materiais
 
-* 100 mL of [Azotobacter medium](http://127.0.0.1:4000/biofactory/annex/cultivation-media/azotobacter-medium/)
+* 100 mL de [Meio Azotobacter](http://127.0.0.1:4000/biofactory/annex/cultivation-media/azotobacter-medium/)
 * 1 [Azotobacter Agar](http://127.0.0.1:4000/biofactory/annex/cultivation-media/azotobacter-agar/) plate
-* 3 100 mL erlenmeyer flasks
-* Soil
-* Nitrogen test strips
+* 3 frascos Erlenmeyer de 100 mL
+* Solo
+* Tiras de teste de Nitrogênio
 
-## Method
+## Métodos
 
-1. Prepare 2 Erlenmeyer flasks by transfering 25 mL into each.
-2. Add some soil to one of the Erlenmeyer flasks.
-3. Save the other Erlenmeyer as negative sterile control.
-4. Clearly label the flasks: name, date & content.
-5. Incubate the flasks at 30&deg; C.
-6. Inspect the flasks every day or two.
-7. As soon as (most likely after one week)  a small film can be observed on the surface of the medium, transfer a small amount into a fresh Erlenmeyer flask.
-8. Incubate this flask again at 30&deg; C.
-9. Look at the biofilm under the microscope.
-10. Take a sample from the flasks and check the NH<sup>+</sup> concentration with the test strip.
-11. As soon as growth can be observed in the 3<sup>rd</sup> flask, streak a Azotobacter agar plate and incubate at 30&deg; C. Lable the plate: name, date & content.
-12. Look at a sample under the microscope.
-13. Check after 24h.
+1. Prepare 2 fracos Erlenmeyer transferindo 25 mL em cada.
+2. Adicione um pouco de solo a um dos frascos.
+3. Mantenha o outro frasco como um controle negativo estéril.
+4. Rotule os frascos: nome, data & conteúdo.
+5. Incube os frascos a 30ºC.
+6. Inspecione os frascos a cada dia ou dois.
+7. Assim que (muito provavelmente depois de uma semana) um pequeno filme (película) possa ser observado na superfície do meio, transfira uma pequena quantidade para um frasco Erlenmeyer fresco.
+8. Incube este frasco novamente a 30ºC.
+9. Olhe o biofilme sob o microscópio.
+10. Tome uma amostra dos frascos e cheque a concentração de NH<sup>+</sup> com as tiras de teste.
+11. Assim que crescimento puder ser observado no terceiro frasco, estrie a placa de agar Azobacter e incube a 30ºC. Rotule a placa: nome, data & conteúdo
+12. Observe a amostra sob o microscópio.
+13. Cheque após 24h.
 
 
-Back to [Biofactory - Class 1: Incubator](/biofactory/class/1-incubator/)
+De volta à [Bio-fábrica - Aula 1: Incubator](/biofactory/class/1-incubator/)
