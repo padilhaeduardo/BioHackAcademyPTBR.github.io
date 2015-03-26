@@ -1,60 +1,60 @@
 ---
 layout: page
-title: Spectrometer Materials
+title: Materiais Espectrômetro
 permalink: /biofactory/class/7-spectrometer/spectrometer-materials/
 ---
 
-The material list is based on the [Requirements list](/biofactory/class/7-spectrometer/requirements/)
+A lista de materiais é baseada na [Lista de Requisitos](/biofactory/class/7-spectrometer/requirements/)
 
-## Bill of Materials
+## Lista de Materiais
 
-This time the materials you need depend on the design you prefer.
+Desta vez os materiais de que você precisa dependem do seu projeto preferido.
 
-### Must have for webcam design
+### Deve-se ter para o projeto da webcam
 
-For this device you do not need an Arduino or equivalent microprocessor.
+Para este equipamento você não precisa de Arduino ou microprocessador equivalente.
 
-|#|Amount|Description|Supplier NL|Cost|
+|#|Quantidade|Descrição|Fornecedor NL|Custo|
 |-:|----:|:---------|:-------|---:|
-|1|1|White LED|[iPrototype](https://iprototype.nl/products/components/led-lcd/ledwit)|0.52|
+|1|1|LED Branco|[iPrototype](https://iprototype.nl/products/components/led-lcd/ledwit)|0.52|
 |2|1|Webcam|[Tweakers Pricewatch](http://tweakers.net/categorie/289/webcams/producten/#filter:q1bKL0pJLXLLTM1JUbJSKijKzCpW0oEIBucXlQDFEouT4SIFqcmeQHW6hrUA)|7.00|
 |3|1|4.7 GB DVD-R (track pitch 0.74 microns)||1.00|
-|4|1|220 ohm resistor|[iPrototype](https://iprototype.nl/products/components/resistors/220R)|0.45|
-|5|1|Power switch|[iPrototype](https://iprototype.nl/products/components/buttons-switches/rocker-switch-large)|0.95|
-|6|1|Power jack|[EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=3298) [iPrototype](https://iprototype.nl/products/accessoires/power/DC-barrel-jack-adapter)|0.85|
-|7|1|Power supply|||
+|4|1|Resistor 220 ohm|[iPrototype](https://iprototype.nl/products/components/resistors/220R)|0.45|
+|5|1|Interruptor|[iPrototype](https://iprototype.nl/products/components/buttons-switches/rocker-switch-large)|0.95|
+|6|1|Conector de alimentação|[EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=3298) [iPrototype](https://iprototype.nl/products/accessoires/power/DC-barrel-jack-adapter)|0.85|
+|7|1|Fonte de energia|||
 |--|--|---|---|---|
-|||*Total costs*|||
+|||*Custo Total*|||
 
-### Must have for photodiode array design
+### Deve-se ter para projeto de arranjo de diodos
 
-For this device you need an Arduino or equivalent microprocessor.
+Para este equipamento você precisa de um Arduino ou  microprocessador equivalente.
 
-|#|Amount|Description|Supplier NL|Cost|
+|#|Quantidade|Descrição|Fornecedor NL|Custo|
 |-:|----:|:---------|:-------|---:|
-|1|1|White LED|[iPrototype](https://iprototype.nl/products/components/led-lcd/ledwit)|0.52|
-|2|1|TSL1406R Photo diode array|[Mouser](http://nl.mouser.com/ProductDetail/ams/TSL1406R/?qs=owm69ILshgasXOGrAzFz%252bQ%3D%3D)|22.35|
-|3|1|1,000 lines/mm grating|[ipacity](http://ipacity.biedmeer.nl/Webwinkel-Product-78540591/Folie-tralie-1000-lijnen-mm-%2815-x-30-cm%29.html) [carolina](http://www.carolina.com/physical-science-light-and-optics/diffraction-grating/755230.pr?catId=&mCat=&sCat=&ssCat=&question=diffraction+grating)|15.90|
-|4|1|220 ohm resistor|[iPrototype](https://iprototype.nl/products/components/resistors/220R)|0.45|
-|5|1|Power switch|[iPrototype](https://iprototype.nl/products/components/buttons-switches/rocker-switch-large)|0.95|
-|6|1|Power supply|||
+|1|1|LED Branco|[iPrototype](https://iprototype.nl/products/components/led-lcd/ledwit)|0.52|
+|2|1|TSL1406R Arranjo de foto diodos|[Mouser](http://nl.mouser.com/ProductDetail/ams/TSL1406R/?qs=owm69ILshgasXOGrAzFz%252bQ%3D%3D)|22.35|
+|3|1|1,000 lines/mm grade|[ipacity](http://ipacity.biedmeer.nl/Webwinkel-Product-78540591/Folie-tralie-1000-lijnen-mm-%2815-x-30-cm%29.html) [carolina](http://www.carolina.com/physical-science-light-and-optics/diffraction-grating/755230.pr?catId=&mCat=&sCat=&ssCat=&question=diffraction+grating)|15.90|
+|4|1|Resistor 220 ohm|[iPrototype](https://iprototype.nl/products/components/resistors/220R)|0.45|
+|5|1|Interruptor|[iPrototype](https://iprototype.nl/products/components/buttons-switches/rocker-switch-large)|0.95|
+|6|1|Fonte de energia|||
 |--|--|---|---|---|
-|||*Total costs*|||
+|||*Custo Total*|||
 
-* You will also need 3MM MDF and some M3 10 mm bolts and nuts
+* Você também precisará de MDF 3mm e alguns parafusos e porcas M3 10 mm
 
-### Nice to have
+### É bom ter
 
-|#|Amount|Description|Supplier NL|Cost|
+|#|Quantidade|Descrição|Fornecedor NL|Custo|
 |-:|----:|:---------|:-------|---:|
 |1|1|I2C LCD 16x2 Display|[iPrototype](https://iprototype.nl/products/components/led-lcd/lcd16x2-I2C-BL)|16.95|
 |--|--|---|---|---|
-|||*Total costs*|||
+|||*Custo Total*|||
 
-**Alternatives**
+**Alternativas**
 
-* Photodiode arrays can be found in flat bed scanners
-* CCD chips are part of cheap webcams
-* Compact Discs (CDs) have 0.001 mm slits
+* Arranjo de fotodiodos pode ser encontrado em scanners de leito plano
+* CCD chips são parte de webcams baratas 
+* Discos Compactos (CDs) têm fendas de 0.001 mm
 
-Back to [Biofactory - Class 7: Spectrometer](/biofactory/class/7-spectrometer/)
+De volta à [Bio-fábrica - Aula 7: Spectrômetro](/biofactory/class/7-spectrometer/)
