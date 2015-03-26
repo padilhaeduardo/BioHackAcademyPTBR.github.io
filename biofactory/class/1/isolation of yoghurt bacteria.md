@@ -67,4 +67,4 @@ Após mais uma semana:
 1. Realize uma coloração de Gram sobre as bactérias e uma coloração Loeffler sobre a levedura.
 2. Dê uma olhada nas culturas com um microscópio. 
 
-De volta ao [Biofactory - Class 1: Incubator](/biofactory/class/1-incubator/)
+De volta ao [Biofactory - Class 1: Incubadora](/biofactory/class/1-incubator/)
